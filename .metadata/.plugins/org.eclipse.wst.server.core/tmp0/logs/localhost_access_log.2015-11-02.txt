@@ -1,0 +1,6 @@
+127.0.0.1 - - [02/Nov/2015:11:57:01 -0800] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [02/Nov/2015:11:57:47 -0800] "GET /SampleWebService/api/verify HTTP/1.1" 200 54
+0:0:0:0:0:0:0:1 - - [02/Nov/2015:11:58:13 -0800] "GET /SampleWebService/api/sampleRestService HTTP/1.1" 405 1013
+0:0:0:0:0:0:0:1 - - [02/Nov/2015:11:58:24 -0800] "GET /SampleWebService/api/verify HTTP/1.1" 200 56
+0:0:0:0:0:0:0:1 - - [02/Nov/2015:11:58:24 -0800] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [02/Nov/2015:12:03:33 -0800] "GET /SampleWebService/api/index.html HTTP/1.1" 404 967

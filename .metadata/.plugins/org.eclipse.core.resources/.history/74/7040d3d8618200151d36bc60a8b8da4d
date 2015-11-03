@@ -1,0 +1,5 @@
+package com.sampleservice.api;
+
+public class Validate {
+
+}
